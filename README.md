@@ -23,7 +23,7 @@ Schematics and gerbers for production are available on github at the following l
 - [Gerbers](https://github.com/angelogerminario/EsPea32/blob/main/Gerbers)
 ## License
 
-Everything in this repository is under a GPL-3.0 license
+Everything in this repository is under a GPL-3.0 license, available [Here](https://github.com/angelogerminario/EsPea32/blob/main/LICENSE)
 ## Esp32-s3-pico-1 full specs
 
 | **Category**              | **Specification**                                                  |
