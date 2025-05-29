@@ -1,8 +1,8 @@
 # EsPea32
-The EsPea32 is a compact, feature-rich development board built around the ESP32-PICO-1. Designed for professional IoT applications, it integrates advanced power management, connectivity options, and high-performance components in a breadboard-compatible form factor.
+The EsPea32 is a compact, feature-rich development board built around the ESP32-S3-PICO-1. Designed for professional IoT applications, it integrates advanced power management, connectivity options, and high-performance components in a breadboard-compatible form factor.
 ## Board Specs
 
-- **MCU**: ESP32-PICO-1 SiP
+- **MCU**: ESP32-S3-PICO-1 SiP
 - **Flash Memory**: 8 MB SPI Flash
 - **RAM**: 8 MB SPI PSRAM
 - **Battery Charger**: BQ24075 IC with intelligent power path management
@@ -13,8 +13,18 @@ The EsPea32 is a compact, feature-rich development board built around the ESP32-
     - USB host functionality
     - USB OTG (On-The-Go) capability
 - **Wireless**: onboard 3D high-gain chip antenna
+## Programming
 
-## Full specs
+To upload code on this board just use any ESP32-S3-PICO-1 board definition, most of them will work without problems
+## Files
+
+Schematics and gerbers for production are available on github at the following links:
+- [Schematics](https://github.com/angelogerminario/EsPea32/blob/main/Schematics)
+- [Gerbers](https://github.com/angelogerminario/EsPea32/blob/main/Gerbers)
+## License
+
+Everything in this repository is under a GPL-3.0 license
+## Esp32-s3-pico-1 full specs
 
 | **Category**              | **Specification**                                                  |
 | ------------------------- | ------------------------------------------------------------------ |
