@@ -2,6 +2,8 @@
 The EsPea32 is a compact, feature-rich development board built around the ESP32-S3-PICO-1. Designed for professional IoT applications, it integrates advanced power management, connectivity options, and high-performance components in a breadboard-compatible form factor.
 ## Board Specs
 
+![Schematics](https://raw.githubusercontent.com/angelogerminario/EsPea32/refs/heads/main/images/schematics.jpg)
+
 - **MCU**: ESP32-S3-PICO-1 SiP
 - **Flash Memory**: 8 MB SPI Flash
 - **RAM**: 8 MB SPI PSRAM
